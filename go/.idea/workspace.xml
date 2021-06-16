@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7c75679f-9d1b-4fe8-95d9-59d222d8b7fd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/go.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_questions/alternate_print.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_questions/alternate_print_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interview_questions/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/demo/ardanlabs_201401.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/demo/ardanlabs_201904.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/demo/atomic.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/demo/context01.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/demo/context_deadline.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/demo/errgroup01.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/demo/errgroup02.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/demo/errgroup03.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/demo/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/demo/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/demo/homework.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/demo/routine01.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/demo/track.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/homework/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/homework/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week03/homework/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/Cellar/go/1.14.3/libexec" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1tsUOYocNLXHbSUc2xBj5ePaulR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/week03/demo" />
+    </key>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="229" y="86" key="SettingsEditor" timestamp="1623723756012">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="86" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1623723756012" />
+  </component>
+</project>

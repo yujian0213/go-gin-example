@@ -20,9 +20,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="28cbbcde-31f9-4a32-ae11-e40b1a5d1bb6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/geektime.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go/week02/Dao.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/go/week02/Module.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go/.idea/go.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go/interview_questions/alternate_print.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go/interview_questions/alternate_print_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go/interview_questions/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go/week03/demo/ardanlabs_201401.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go/week03/demo/ardanlabs_201904.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go/week03/demo/atomic.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go/week03/demo/context01.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go/week03/demo/context_deadline.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go/week03/demo/errgroup01.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go/week03/demo/go.mod" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go/week03/demo/go.sum" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go/week03/demo/routine01.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/go/week03/demo/track.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,14 +78,18 @@
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/go/week03/demo" />
     <property name="settings.editor.selected.configurable" value="go.vgo" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/go/week03/demo" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/go" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Go Build.go build geektime/go/week03/demo">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="geektime01" />
       <working_directory value="$PROJECT_DIR$/../geektime01/" />
@@ -81,6 +98,46 @@
       <filePath value="$PROJECT_DIR$/../geektime01/" />
       <package value="geektime01" />
       <directory value="$PROJECT_DIR$/../geektime01/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build geektime/go/interview_questions" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="geektime" />
+      <working_directory value="$PROJECT_DIR$/go/interview_questions" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/go/interview_questions/alternate_print.go" />
+      <package value="geektime/go/interview_questions" />
+      <directory value="$PROJECT_DIR$/../geektime01/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build geektime/go/week03/demo" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="geektime" />
+      <working_directory value="$PROJECT_DIR$/../geektime01/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/go/week03/demo/ardanlabs_201904.go" />
+      <package value="geektime/go/week03/demo" />
+      <directory value="$PROJECT_DIR$/../geektime01/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestAlternatePrint in geektime/go/interview_questions" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="geektime" />
+      <working_directory value="$PROJECT_DIR$/go/interview_questions" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="geektime/go/interview_questions" />
+      <directory value="$PROJECT_DIR$/../geektime01/" />
+      <filePath value="$PROJECT_DIR$/../geektime01/" />
+      <pattern value="^TestAlternatePrint$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestAlternatePrint1 in geektime/go/interview_questions" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="geektime" />
+      <working_directory value="$PROJECT_DIR$/go/interview_questions" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="geektime/go/interview_questions" />
+      <directory value="$PROJECT_DIR$/../geektime01/" />
+      <filePath value="$PROJECT_DIR$/../geektime01/" />
+      <pattern value="^TestAlternatePrint1$" />
       <method v="2" />
     </configuration>
     <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
@@ -94,6 +151,14 @@
       <filePath value="$PROJECT_DIR$/../geektime01/" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build geektime/go/week03/demo" />
+        <item itemvalue="Go Test.TestAlternatePrint1 in geektime/go/interview_questions" />
+        <item itemvalue="Go Test.TestAlternatePrint in geektime/go/interview_questions" />
+        <item itemvalue="Go Build.go build geektime/go/interview_questions" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
@@ -108,6 +173,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -116,9 +182,51 @@
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
-    <state x="229" y="100" key="SettingsEditor" timestamp="1622882826695">
+    <state x="416" y="87" key="#TestAlternatePrint1_in_geektime/go/interview_questions" timestamp="1623308651025">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="416" y="87" key="#TestAlternatePrint1_in_geektime/go/interview_questions/0.0.1440.900@0.0.1440.900" timestamp="1623308651025" />
+    <state x="416" y="87" key="#TestAlternatePrint_in_geektime/go/interview_questions" timestamp="1623203092605">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="416" y="87" key="#TestAlternatePrint_in_geektime/go/interview_questions/0.0.1440.900/-285.-1080.1920.1080@0.0.1440.900" timestamp="1623168556387" />
+    <state x="416" y="87" key="#TestAlternatePrint_in_geektime/go/interview_questions/0.0.1440.900@0.0.1440.900" timestamp="1623203092605" />
+    <state x="416" y="108" key="#go_build_geektime/go/interview_questions" timestamp="1623168881283">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="416" y="108" key="#go_build_geektime/go/interview_questions/0.0.1440.900/-285.-1080.1920.1080@0.0.1440.900" timestamp="1623168881283" />
+    <state x="416" y="108" key="#go_build_geektime/go/week03/demo" timestamp="1623369644986">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="416" y="108" key="#go_build_geektime/go/week03/demo/0.0.1440.900/-285.-1080.1920.1080@0.0.1440.900" timestamp="1623369644986" />
+    <state width="1398" height="235" key="GridCell.Tab.0.bottom" timestamp="1623369653042">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="235" key="GridCell.Tab.0.bottom/0.0.1440.900/-285.-1080.1920.1080@0.0.1440.900" timestamp="1623369653042" />
+    <state width="1398" height="235" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1623316261774" />
+    <state width="1398" height="235" key="GridCell.Tab.0.center" timestamp="1623369653040">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="235" key="GridCell.Tab.0.center/0.0.1440.900/-285.-1080.1920.1080@0.0.1440.900" timestamp="1623369653040" />
+    <state width="1398" height="235" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1623316261773" />
+    <state width="1398" height="235" key="GridCell.Tab.0.left" timestamp="1623369653039">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="235" key="GridCell.Tab.0.left/0.0.1440.900/-285.-1080.1920.1080@0.0.1440.900" timestamp="1623369653039" />
+    <state width="1398" height="235" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1623316261772" />
+    <state width="1398" height="235" key="GridCell.Tab.0.right" timestamp="1623369653041">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="235" key="GridCell.Tab.0.right/0.0.1440.900/-285.-1080.1920.1080@0.0.1440.900" timestamp="1623369653041" />
+    <state width="1398" height="235" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1623316261773" />
+    <state x="229" y="100" key="SettingsEditor" timestamp="1623167887075">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="100" key="SettingsEditor/0.0.1440.900/-285.-1080.1920.1080@0.0.1440.900" timestamp="1623167887075" />
     <state x="229" y="100" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1622882826695" />
+    <state x="385" y="217" width="670" height="676" key="search.everywhere.popup" timestamp="1623479396105">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="217" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-285.-1080.1920.1080@0.0.1440.900" timestamp="1623479396105" />
   </component>
 </project>
