@@ -19,30 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c75679f-9d1b-4fe8-95d9-59d222d8b7fd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/go.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_questions/alternate_print.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_questions/alternate_print_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/interview_questions/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/demo/ardanlabs_201401.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/demo/ardanlabs_201904.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/demo/atomic.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/demo/context01.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/demo/context_deadline.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/demo/errgroup01.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/demo/errgroup02.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/demo/errgroup03.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/demo/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/demo/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/demo/homework.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/demo/routine01.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/demo/track.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homework/go.mod" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homework/go.sum" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/homework/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7c75679f-9d1b-4fe8-95d9-59d222d8b7fd" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
