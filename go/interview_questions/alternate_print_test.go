@@ -1,4 +1,4 @@
-package interview_questions
+package main
 
 import "testing"
 //交替打印数字和字母

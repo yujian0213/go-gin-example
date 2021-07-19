@@ -24,7 +24,7 @@ var ErrorSqlNoRows = errors.New("sql.ErrNoRows")
 func (u *UserDao) Get(id int64) (*User,error) {
 	user := User{}
 	err := db.Where("id = ?",id).Find(&user).Error
-	if errors.Is(err,ErrorSqlNoRows){
+	if errors.Is(err, ErrorSqlNoRows){
 		return &user, errors.Wrap(err,fmt.Sprintf("find user null of user id=%v",id))
 	}
 	return &user,nil
