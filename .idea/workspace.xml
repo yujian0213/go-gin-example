@@ -1,38 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="28cbbcde-31f9-4a32-ae11-e40b1a5d1bb6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="f4814409-79df-4733-b7bd-de54065215b9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Go File" />
-      </list>
-    </option>
   </component>
   <component name="GOROOT" path="/usr/local/Cellar/go/1.14.3/libexec" />
   <component name="Git.Settings">
@@ -41,216 +16,24 @@
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
-  <component name="ProjectId" id="1tW3wD3RnlzDF3O8yDLnhAOi3NR" />
-  <component name="ProjectLevelVcsManager">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="1wl5fCsUpnk6MqZdVliryHAR5aA" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="DefaultGoTemplateProperty" value="Go File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
-    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
-    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="go.vgo" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/go/homework" />
-      <recent name="$PROJECT_DIR$/go" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/go/week03/demo" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Go Build.go build geektime/go/interview_questions/xiaobai">
-    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
-      <module name="geektime01" />
-      <working_directory value="$PROJECT_DIR$/../geektime01/" />
-      <go_parameters value="-i" />
-      <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/../geektime01/" />
-      <package value="geektime01" />
-      <directory value="$PROJECT_DIR$/../geektime01/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build geektime/go/interview_questions" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="geektime" />
-      <working_directory value="$PROJECT_DIR$/go/interview_questions" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/go/interview_questions/usual_grammar_1.go" />
-      <package value="geektime/go/interview_questions" />
-      <directory value="$PROJECT_DIR$/../geektime01/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build geektime/go/interview_questions/xiaobai" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="geektime" />
-      <working_directory value="$PROJECT_DIR$/go/interview_questions/xiaobai" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/go/interview_questions/xiaobai/leak.go" />
-      <package value="geektime/go/interview_questions/xiaobai" />
-      <directory value="$PROJECT_DIR$/../geektime01/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="go build geektime/go/yuhen/yh-1.2" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
-      <module name="geektime" />
-      <working_directory value="$PROJECT_DIR$/../geektime01/" />
-      <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/go/yuhen/yh-1.2/routine_by_ch.go" />
-      <package value="geektime/go/yuhen/yh-1.2" />
-      <directory value="$PROJECT_DIR$/../geektime01/" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestFive in geektime/go/interview_questions" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="geektime" />
-      <working_directory value="$PROJECT_DIR$/go/interview_questions" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="geektime/go/interview_questions" />
-      <directory value="$PROJECT_DIR$/../geektime01/" />
-      <filePath value="$PROJECT_DIR$/../geektime01/" />
-      <pattern value="^TestFive$" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TestStringer in geektime/go/interview_questions" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
-      <module name="geektime" />
-      <working_directory value="$PROJECT_DIR$/go/interview_questions" />
-      <framework value="gotest" />
-      <kind value="PACKAGE" />
-      <package value="geektime/go/interview_questions" />
-      <directory value="$PROJECT_DIR$/../geektime01/" />
-      <filePath value="$PROJECT_DIR$/../geektime01/" />
-      <pattern value="^TestStringer$" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
-      <module name="geektime01" />
-      <working_directory value="$PROJECT_DIR$/../geektime01/" />
-      <go_parameters value="-i" />
-      <framework value="gotest" />
-      <kind value="DIRECTORY" />
-      <package value="geektime01" />
-      <directory value="$PROJECT_DIR$/../geektime01/" />
-      <filePath value="$PROJECT_DIR$/../geektime01/" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Go Build.go build geektime/go/yuhen/yh-1.2" />
-        <item itemvalue="Go Build.go build geektime/go/interview_questions/xiaobai" />
-        <item itemvalue="Go Build.go build geektime/go/interview_questions" />
-        <item itemvalue="Go Test.TestFive in geektime/go/interview_questions" />
-        <item itemvalue="Go Test.TestStringer in geektime/go/interview_questions" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="416" y="87" key="#TestAlternatePrint1_in_geektime/go/interview_questions" timestamp="1623308651025">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="416" y="87" key="#TestAlternatePrint1_in_geektime/go/interview_questions/0.0.1440.900@0.0.1440.900" timestamp="1623308651025" />
-    <state x="416" y="87" key="#TestAlternatePrint_in_geektime/go/interview_questions" timestamp="1623203092605">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="416" y="87" key="#TestAlternatePrint_in_geektime/go/interview_questions/0.0.1440.900/-285.-1080.1920.1080@0.0.1440.900" timestamp="1623168556387" />
-    <state x="416" y="87" key="#TestAlternatePrint_in_geektime/go/interview_questions/0.0.1440.900@0.0.1440.900" timestamp="1623203092605" />
-    <state x="184" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1625022331659">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="184" y="109" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1625022331659" />
-    <state x="416" y="108" key="#go_build_geektime/go/interview_questions" timestamp="1623168881283">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="416" y="108" key="#go_build_geektime/go/interview_questions/0.0.1440.900/-285.-1080.1920.1080@0.0.1440.900" timestamp="1623168881283" />
-    <state x="416" y="94" key="#go_build_geektime/go/interview_questions/xiaobai" timestamp="1626344673640">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="416" y="94" key="#go_build_geektime/go/interview_questions/xiaobai/0.0.1440.900@0.0.1440.900" timestamp="1626344673640" />
-    <state x="416" y="108" key="#go_build_geektime/go/week03/demo" timestamp="1623369644986">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="416" y="108" key="#go_build_geektime/go/week03/demo/0.0.1440.900/-285.-1080.1920.1080@0.0.1440.900" timestamp="1623369644986" />
-    <state x="416" y="94" key="#go_build_geektime/go/yuhen/yh-1.2" timestamp="1624977786519">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="416" y="94" key="#go_build_geektime/go/yuhen/yh-1.2/-255.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1624977786519" />
-    <state width="1398" height="160" key="GridCell.Tab.0.bottom" timestamp="1624868646640">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="215" key="GridCell.Tab.0.bottom/-250.-1055.1920.1055/0.25.1440.816@0.25.1440.816" timestamp="1624578214971" />
-    <state width="1398" height="244" key="GridCell.Tab.0.bottom/-250.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1624463140587" />
-    <state width="1878" height="135" key="GridCell.Tab.0.bottom/-255.-1055.1920.1055/0.25.1440.816@0.25.1440.816" timestamp="1624715851668" />
-    <state width="1398" height="235" key="GridCell.Tab.0.bottom/0.0.1440.900/-285.-1080.1920.1080@0.0.1440.900" timestamp="1623369653042" />
-    <state width="1398" height="160" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1624868646640" />
-    <state width="1398" height="160" key="GridCell.Tab.0.center" timestamp="1624868646639">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="215" key="GridCell.Tab.0.center/-250.-1055.1920.1055/0.25.1440.816@0.25.1440.816" timestamp="1624578214970" />
-    <state width="1398" height="244" key="GridCell.Tab.0.center/-250.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1624463140585" />
-    <state width="1878" height="135" key="GridCell.Tab.0.center/-255.-1055.1920.1055/0.25.1440.816@0.25.1440.816" timestamp="1624715851667" />
-    <state width="1398" height="235" key="GridCell.Tab.0.center/0.0.1440.900/-285.-1080.1920.1080@0.0.1440.900" timestamp="1623369653040" />
-    <state width="1398" height="160" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1624868646639" />
-    <state width="1398" height="160" key="GridCell.Tab.0.left" timestamp="1624868646639">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="215" key="GridCell.Tab.0.left/-250.-1055.1920.1055/0.25.1440.816@0.25.1440.816" timestamp="1624578214969" />
-    <state width="1398" height="244" key="GridCell.Tab.0.left/-250.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1624463140585" />
-    <state width="1878" height="135" key="GridCell.Tab.0.left/-255.-1055.1920.1055/0.25.1440.816@0.25.1440.816" timestamp="1624715851666" />
-    <state width="1398" height="235" key="GridCell.Tab.0.left/0.0.1440.900/-285.-1080.1920.1080@0.0.1440.900" timestamp="1623369653039" />
-    <state width="1398" height="160" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1624868646639" />
-    <state width="1398" height="160" key="GridCell.Tab.0.right" timestamp="1624868646640">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state width="1398" height="215" key="GridCell.Tab.0.right/-250.-1055.1920.1055/0.25.1440.816@0.25.1440.816" timestamp="1624578214970" />
-    <state width="1398" height="244" key="GridCell.Tab.0.right/-250.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1624463140586" />
-    <state width="1878" height="135" key="GridCell.Tab.0.right/-255.-1055.1920.1055/0.25.1440.816@0.25.1440.816" timestamp="1624715851668" />
-    <state width="1398" height="235" key="GridCell.Tab.0.right/0.0.1440.900/-285.-1080.1920.1080@0.0.1440.900" timestamp="1623369653041" />
-    <state width="1398" height="160" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1624868646640" />
-    <state x="229" y="100" key="SettingsEditor" timestamp="1626688746403">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="229" y="100" key="SettingsEditor/0.0.1440.900/-285.-1080.1920.1080@0.0.1440.900" timestamp="1623167887075" />
-    <state x="229" y="100" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1626688746403" />
-    <state x="511" y="368" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1624286808164">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="511" y="368" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-250.-1080.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1624286808164" />
-    <state x="385" y="217" width="670" height="676" key="search.everywhere.popup" timestamp="1623479396105">
-      <screen x="0" y="0" width="1440" height="900" />
-    </state>
-    <state x="385" y="217" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/-285.-1080.1920.1080@0.0.1440.900" timestamp="1623479396105" />
   </component>
 </project>
