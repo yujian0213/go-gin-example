@@ -20,9 +20,49 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4814409-79df-4733-b7bd-de54065215b9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conf/app.ini" beforeDir="false" afterPath="$PROJECT_DIR$/conf/app.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cron.go" beforeDir="false" afterPath="$PROJECT_DIR$/cron.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/.idea/go.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/homework/week02/Dao.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/homework/week02/Module.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/homework/week02/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/homework/week02/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/homework/week03/demo/ardanlabs_201401.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/homework/week03/demo/ardanlabs_201904.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/homework/week03/demo/atomic.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/homework/week03/demo/context01.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/homework/week03/demo/context_deadline.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/homework/week03/demo/errgroup01.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/homework/week03/demo/errgroup02.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/homework/week03/demo/errgroup03.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/homework/week03/demo/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/homework/week03/demo/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/homework/week03/demo/homework.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/homework/week03/demo/routine01.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/homework/week03/demo/track.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/homework/week03/homework/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/homework/week03/homework/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/homework/week03/homework/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/homework/week04/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/homework/week08/benchmark.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/homework/week08/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/homework/week08/go.sum" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/homework/week08/main.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/interview_questions/alternate_print.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/interview_questions/alternate_print_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/interview_questions/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/interview_questions/happen_before.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/interview_questions/happen_before1.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/interview_questions/structNil.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/interview_questions/usual_grammar_1.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/interview_questions/usual_grammar_1_test.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/interview_questions/xiaobai/c.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/interview_questions/xiaobai/go.mod" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/interview_questions/xiaobai/leak.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/interview_questions/xiaobai/rountine.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/yuhen/yh-1.2/routine_by_ch.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/yuhen/yh-2.3/const.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/yuhen/yh-2.4/str.go" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/go/yuhen/yh-2.4/type.go" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
