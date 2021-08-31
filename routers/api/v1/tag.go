@@ -26,7 +26,7 @@ func GetTags(c *gin.Context)  {
 	}
 	//data
 	data := make(map[string]interface{})
-	data["list"] = models.GetTags(util.GetPage(c),setting.PageSize,condition)
+	data["list"] = models.GetTags(util.GetPage(c),setting.AppSetting.PageSize,condition)
 	data["total"] = models.GetTagTotal(condition)
 
 	//return result

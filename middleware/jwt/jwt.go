@@ -1,6 +1,7 @@
 package jwt
 
 import (
+	"fmt"
 	"github.com/gin-gonic/gin"
 	"go-gin-example/pkg/e"
 	"go-gin-example/pkg/util"
@@ -20,6 +21,7 @@ func JWT() gin.HandlerFunc {
 		}else{
 			claims,err := util.PraseToken(token)
 			if err != nil {
+				fmt.Printf("鉴权失败:%s",err)
 				code = e.ERROR_AUTH_CHECK_TOKEN_FAIL
 			}else if time.Now().Unix() > claims.ExpiresAt {
 				code = e.ERROR_AUTH_CHECK_TOKEN_TIMEOUT
