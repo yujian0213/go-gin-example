@@ -19,27 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f4814409-79df-4733-b7bd-de54065215b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pkg/file/file.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/upload/image.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pkg/util/md5.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conf/app.ini" beforeDir="false" afterPath="$PROJECT_DIR$/conf/app.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/middleware/jwt/jwt.go" beforeDir="false" afterPath="$PROJECT_DIR$/middleware/jwt/jwt.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/auth.go" beforeDir="false" afterPath="$PROJECT_DIR$/models/auth.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/models.go" beforeDir="false" afterPath="$PROJECT_DIR$/models/models.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/logging/file.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/logging/file.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/logging/log.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/logging/log.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/setting.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/setting.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/util/jwt.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/util/jwt.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pkg/util/pagination.go" beforeDir="false" afterPath="$PROJECT_DIR$/pkg/util/pagination.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/api/auth.go" beforeDir="false" afterPath="$PROJECT_DIR$/routers/api/auth.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/api/v1/article.go" beforeDir="false" afterPath="$PROJECT_DIR$/routers/api/v1/article.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/api/v1/tag.go" beforeDir="false" afterPath="$PROJECT_DIR$/routers/api/v1/tag.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routers/router.go" beforeDir="false" afterPath="$PROJECT_DIR$/routers/router.go" afterDir="false" />
-    </list>
+    <list default="true" id="f4814409-79df-4733-b7bd-de54065215b9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
